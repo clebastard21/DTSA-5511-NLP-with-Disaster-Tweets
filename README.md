@@ -1,6 +1,6 @@
 # Project Title
 
-NLP with Disaster Tweets Kaggle Mini-Project for course DTSA-5511 Week 3
+NLP with Disaster Tweets Kaggle Mini-Project for course DTSA-5511 Week 4
 
 ## Problem Statement
 
